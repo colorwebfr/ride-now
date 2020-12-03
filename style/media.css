@@ -1,0 +1,251 @@
+@media screen and (max-width: 1226px) {
+#contact_inf {
+  word-spacing: 18px;
+  }	
+}
+@media screen and (max-width: 970px) and (min-width: 621px) {
+h1 {
+  font-size: 42px;
+  margin-bottom: 0%;
+  margin-top: 4%;
+}	
+header {
+  padding: 1em 6px;
+  height: 135px;
+}
+nav ul {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+footer {
+  justify-content: space-evenly;
+}
+#contact_inf ul a {
+  display: block; 
+  margin-bottom: 5%;
+}	
+#contact_inf ul li {
+  display: block; 
+  margin-bottom: 5%;
+} 
+#contact_inf ul {
+  text-align: center;
+}
+#contact_inf a {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.infoLegales {
+  word-spacing: 5px;
+}
+.copy {
+  word-spacing: 5px;
+}
+.propos {
+  word-spacing: 5px;
+}
+}
+@media screen and (max-width: 620px) and (min-width: 375px) {
+h1 {
+  font-size: 30px;
+  margin-bottom: 0%;
+  margin-top: 8%;
+} 
+header {
+  padding: 1em 6px;
+  height: 135px;
+}
+.messBienvenue p {
+  font-size: 20px;
+}
+.invisible {
+  display: none;
+}
+#menu_D a {
+  padding: 4px;
+}
+#menu_G a {
+  padding: 4px;
+}
+#contact_inf ul a {
+  display: block;
+  margin-bottom: 5%;
+}	
+#contact_inf ul li {
+  display: block; 
+  margin-bottom: 5%;
+} 
+#contact_inf ul {
+  text-align: center;
+}
+#contact_inf a {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.infoLegales {
+  word-spacing: 5px;
+}
+.copy {
+  word-spacing: 5px;
+}
+.propos {
+  word-spacing: 5px;
+}
+.galerie1 {
+  display: flex;
+  flex-direction: column;
+}
+.galerie2 {
+  display: flex;
+  flex-direction: column;
+}
+.cardSnow {
+  margin-right: initial;
+}
+.cardSurf {
+  margin-left: initial;
+}
+.titlePaddle {
+  margin-top: initial;
+}
+.cardPaddle {
+  margin-left: initial;
+}
+.cardSkate {
+  margin-right: initial;
+}
+.messageSession {
+  display: none;
+}
+}
+@media screen and (max-width: 374px) {
+h1 {
+  font-size: 30px;
+  margin-bottom: 0%;
+  margin-top: 3%;
+} 
+.messageSession {
+  display: none;
+}
+.invisible {
+  display: none;
+}
+nav a {
+  padding: 5px;
+}
+.messBienvenue p {
+  font-size: 12px;
+}
+#contact_inf ul a {
+  display: block;
+  margin-bottom: 5%;
+} 
+#contact_inf ul li {
+  display: block; 
+  margin-bottom: 5%;
+} 
+#contact_inf {
+  font-size: 16px;
+}
+footer {
+  align-items: center;
+  flex-direction: column;
+}
+.infoLegales {
+  word-spacing: 5px;
+}
+.copy {
+  word-spacing: 5px;
+}
+.propos {
+  word-spacing: 5px;
+}
+label{
+  display: none;
+}
+.pass1 .asterix {
+  display: none;
+}
+.mail .asterix {
+    display: none;
+}
+.pass2 .asterix {
+    display: none;
+}
+.nom .asterix {
+    display: none;
+}
+.prenom .asterix {
+    display: none;
+}
+.commentaireForm .asterix {
+    display: none;
+}
+.boutonF1 {
+  font-size: 1em;
+  margin-top: 12px;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: 5px;
+}
+.boutonF2 {
+  font-size: 1em;
+  margin-top: 12px;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-left: 5px;
+}
+.pass2 p{
+  display: flex;
+  justify-content: space-around;
+}
+.pass1 p{
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 15px;
+}
+.nom p {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 15px;
+}
+.prenom p {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 15px;
+}
+.commentaireForm .asterix {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  padding-right: 10px;
+}
+.mail p {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 15px;
+}
+.galerie1 {
+  display: flex;
+  flex-direction: column;
+}
+.galerie2 {
+  display: flex;
+  flex-direction: column;
+}
+.cardSnow {
+  margin-right: initial;
+}
+.cardSurf {
+  margin-left: initial;
+}
+.titlePaddle {
+  margin-top: initial;
+}
+.cardPaddle {
+  margin-left: initial;
+}
+.cardSkate {
+  margin-right: initial;
+}
+}

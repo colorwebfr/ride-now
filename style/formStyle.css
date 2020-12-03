@@ -1,0 +1,134 @@
+.paraghform {
+    line-height: 1;
+    font-family: marvel;
+    display: flex;
+	justify-content: space-around;
+}
+p {
+    font-family: marvel;
+    color: #757474;
+    font-size: 1.875em;
+    line-height: 40px;
+}
+.pass2 p{
+	display: flex;
+	justify-content: space-between;
+}
+.pass1 p{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 15px;
+}
+.nom p {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 15px;
+}
+.prenom p {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 15px;
+}
+.commentaireForm p {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 15px;
+}
+.mail p {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 15px;
+}
+.boutonForm {
+	display: flex;
+	justify-content: space-around;
+}
+.nom .asterix {
+    display: flex;
+	justify-content: flex-end;
+	width: 100%;
+	padding-right: 10px;
+}
+.prenom .asterix {
+    display: flex;
+	justify-content: flex-end;
+	width: 100%;
+	padding-right: 10px;
+}
+.mail .asterix {
+    display: flex;
+	justify-content: flex-end;
+	width: 100%;
+	padding-right: 10px;
+}
+.pass1 .asterix {
+    display: flex;
+	justify-content: flex-end;
+	width: 100%;
+	padding-right: 10px;
+}
+.pass2 .asterix {
+    display: flex;
+	justify-content: flex-end;
+	width: 100%;
+	padding-right: 10px;
+}
+.boutonF1 {
+	font-family: bebas neue;
+	font-size: 1.25em;
+	color: #ffff;
+	text-shadow:  #0d0c0c 1px 1px;
+	margin-top: 18px;
+    border-radius: 8px;
+    background-color: #b01c20;
+    background-image: linear-gradient(to top,rgb(176,28,32) 0%,rgb(241,92,96) 100%);
+    border: #bfbfbf 1px; 
+    box-shadow: hsla(0,0%, 26.6667%, 0.8)5px 5px;
+    text-align: center;
+    padding-right: 2px;
+    padding-left: 2px;
+}
+.boutonF2 {
+	font-family: bebas neue;
+	font-size: 1.25em;
+	color: #ffff;
+	text-shadow:  #0d0c0c 1px 1px;
+	margin-top: 18px;
+    border-radius: 8px;
+    background-color: #b01c20;
+    background-image: linear-gradient(to top,rgb(176,28,32) 0%,rgb(241,92,96) 100%);
+    border: #bfbfbf 1px;
+    box-shadow: hsla(0,0%, 26.6667%, 0.8)5px 5px;
+    text-align: center;
+    padding-right: 2px;
+    padding-left: 2px;
+}
+fieldset {
+	color: #757474;
+	padding: 15px;
+	margin-bottom: 8px; 
+} 
+form {
+	font-family: Noto Serif;
+	font-weight: bold;
+}
+form p {
+	color: #303030;
+	font-size: 24px;
+	font-weight: bold;
+}
+label {
+	color: #303030;
+	font-size: 24px;
+	line-height: 1;
+	font-family: noto serif;
+}
+.form1 {
+	display: none;
+}
+.form2 {
+	display: none;
+}
+.formContact {
+	display: none;
+}
